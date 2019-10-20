@@ -1,0 +1,15 @@
+// scss文件
+$w100: 100%;
+$h100: 100%;
+// 主背景色
+$bg1: #ebebeb;
+#app {
+  width: $w100;
+  height: $h100;
+  background: $bg1;
+  width:100%;
+  overflow-x: hidden;
+}
+
+// 字体大小
+$fs10: 10px

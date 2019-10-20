@@ -1,0 +1,16 @@
+// 对话列表
+
+// headurl      对话人头像
+// remarks      对话人名字
+// newMessage   对话最新一条信息
+// sendObject   发送信息的对象 1是别人,0 是自己
+// messageBlob  消息内容
+
+{
+  "wxid": "fileTransfer",
+  "headurl": "31.jpg",
+  "petName": "机器人聊天",
+  "remarks": "机器人聊天",
+  "newMessage": "请从通讯录的联系人进入机器人单人聊天",
+  "sendObject": 1
+}

@@ -1,0 +1,87 @@
+.main {
+  width: 100%;
+  overflow-x: hidden;
+  height: 100%;
+}
+html,body {
+  background: #ebebeb;
+  overflow-x: hidden;
+}
+.mt46 {
+  padding-top:46px;
+}
+.home {
+  height:100%;
+}
+#app {overflow-x: hidden;}
+.mt4b5 {
+  padding:46px 0 50px 0;
+  min-height: calc(100% - 46px);
+}
+.t4b5{
+  padding:46px 0 50px 0;
+  min-height: 100%;
+}
+.t4{
+  padding:46px 0 0 0;
+  min-height:calc(100% - 20px);
+}
+.bg0 {
+  background: #fff;
+}
+/* 字体图标 */
+.icon {
+  width: .4rem; height: .4rem;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+/* 间距 */
+.ml10 {
+  margin-right: .2rem
+}
+.mt2 {
+  margin-top: .4rem;
+}
+.p3 {
+  padding: .24rem;
+}
+.pl3 {
+  padding: 0 .24rem
+}
+#icon-fanhui1 path {
+  fill: #fff
+}
+.childHome {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #ebebeb;
+  z-index: 9;
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* 字体样式 */
+.nb {
+  font-weight: normal;
+}
+
+/* 字体颜色*/
+.fc333 {
+  color: #333;
+}
+/* 阴影 */
+.box1 {
+  box-shadow: 0 2px 10px rgba(195, 195, 195, .2);
+}
+/* 开关样式 */
+.yd-switch:before {
+    background-color: #e6e3e3 !important;
+}
+input {-webkit-appearance:none; /*去除input默认样式*/}
+input[type="button"], input[type="submit"], input[type="reset"] {
+    -webkit-appearance: none;
+}
+textarea {  -webkit-appearance: none;}
